@@ -1,0 +1,3 @@
+#! /bin/bash
+USER_1=sikandar
+echo "Hello i am $USER_1"
